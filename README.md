@@ -5,8 +5,11 @@ The restaurant management system has four modules namely Customer, Admin, Kitche
 HTML, CSS, Bootstrap, Angular 2+, Java, SQL, Spring Boot, Angular Material
 # Features
 customer can place order through website and can choose between non veg or veg.
+
 Customer can pay through debit card/ credit card/ net banking or cash on delivery.
+
 Kitchen master can add or subtract items depending on availability.
+
 To-do list:
 
 . Need to deploy on AWS

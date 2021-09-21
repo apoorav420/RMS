@@ -13,6 +13,7 @@ Kitchen master can add or subtract items depending on availability.
 To-do list:
 
 . Need to deploy on AWS
+
 . SMS alerts are to be done.
 # Getting Started
 To start the front end of this project user needs to go to the frontend file location and on the address bar, the user needs to type cmd. Then on cmd type ng serve --open To start the backend of this project User needs to open any IDE and go to src/main/java and then click on the package named com.capfood.elef and then run the file named ELEFoodsApplication.java To connect to the database open MySQL and type use reast2.
